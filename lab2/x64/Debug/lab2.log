@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+D:\4_сем\матпрога\lab2\lab2.cpp(7,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab2.vcxproj -> D:\4_сем\матпрога\lab2\x64\Debug\lab2.exe
